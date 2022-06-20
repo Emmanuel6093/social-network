@@ -4,6 +4,11 @@
 
 This is a backend application where users and share thoughts, add friends, and react to thoughts. 
 
+## Video
+
+[Video Demo](https://youtu.be/trIEf3BYHRk)
+
+
 ## Installation
 
 * Download/clone GitHub files
